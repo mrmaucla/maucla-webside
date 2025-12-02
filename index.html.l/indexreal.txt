@@ -1,0 +1,3 @@
+<img src="images/Foto1.png" alt="Producto 1">
+<img src="images/Foto2.png" alt="Producto 2">
+<img src="images/Foto3.png" alt="Producto 3">

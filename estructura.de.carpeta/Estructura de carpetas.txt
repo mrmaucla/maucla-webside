@@ -1,0 +1,11 @@
+/maucla-webside
+│
+├── index.html
+├── /css
+│   └── style.css
+├── /js
+│   └── main.js
+└── /images
+    ├── foto1.jpg
+    ├── foto2.jpg
+    └── foto3.jpg
